@@ -155,5 +155,5 @@ cython_debug/
 # PyCharm
 .idea/
 
-/UML-модель/eduproc.vpp.bak*
-/UML-модель/.eduproc.vpp.lck
+/UML-модель/practice-distribution.vpp.bak*
+/UML-модель/.practice-distribution.vpp.lck
